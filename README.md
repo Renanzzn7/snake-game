@@ -34,8 +34,6 @@ npm install
 Compile o código TypeScript:
 
 bash
-Copiar
-Editar
 npx tsc
 Abra o arquivo index.html no seu navegador (clique duas vezes ou use uma extensão de servidor local).
 
@@ -84,14 +82,10 @@ snake-game/
 Install TypeScript dependencies:
 
 bash
-Copiar
-Editar
 npm install
 Compile the TypeScript code:
 
 bash
-Copiar
-Editar
 npx tsc
 Open the index.html file in your browser (double-click or use a local server extension).
 
